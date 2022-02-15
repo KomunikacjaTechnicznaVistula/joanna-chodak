@@ -19,4 +19,4 @@ This instruction is for the **Inverted AeroPress method**
 - Wait 30 seconds
 - Flip Aerpress and put it on the cup
 - Press gently for 20-45 seconds untill you hear a hissing sound. Your coffee concentate is ready. Add hot water based on your preferences
-- You can visit World AeroPress Championship website to find more recipes.
+- You can visit World [AeroPress Championship](https://aeropress.com/pages/wac-recipes) website to find more recipes.
