@@ -3,7 +3,6 @@ layout: default
 title: Brewing
 Parent: How to brew a coffee in AeroPress
 nav_order: 3
-
 ---
 # Brewing
 
