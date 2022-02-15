@@ -6,9 +6,13 @@ nav_order: 2
 
 ---
 # Normal vs. Inverted AeroPress
+
 {: .no_toc}
+
 You can prepare a coffee in AeroPress in two ways.
+
 ### Table of contents
+
 {: .no_toc}
 
 1. TOC
@@ -37,6 +41,7 @@ This method can be used when you are a new user of the AeroPress. It is slightly
 - Add a coffee and water according to the recipe
 - After a stirring attach the Filter Cap with filters to the Chamber
 - When the brewing is complete flip the AeroPress, put it on the cup with a Filter Cap end directed downwards and press it to instill the coffee into the cup
+  
 ![image](../../assets/images/aeropress-plunge.jpg)
 
 This method allows you to brew a coffee for as long as you want because the coffee doesn't drip through the filter while brewing. When you flip the AeroPress, the grinds become fully saturated. For the safety reasons be careful when you flip the AeroPress. Please see [Safety notices](../Safety-notices/index.md)
