@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Normal vs. Inverted AeroPress
-Parent: How to brew a coffee in Aeropress
+parent: How to brew a coffee in Aeropress
 nav_order: 2
 ---
 # Normal vs. Inverted AeroPress

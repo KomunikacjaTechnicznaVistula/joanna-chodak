@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cleaning
-Parent: How to brew a coffee in AeroPress
+parent: How to brew a coffee in AeroPress
 nav_order: 4
 ---
 

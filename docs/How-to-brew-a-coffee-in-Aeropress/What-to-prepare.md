@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What to prepare
-Parent: How to brew a coffee in Aeropress
+parent: How to brew a coffee in Aeropress
 nav_order: 1
 ---
 
