@@ -16,7 +16,7 @@ AeroPress parts:
 - Stirrer
 - Scoop
   
-![image](./../../assets/images/aeropress.jpg)
+![image](./../../assets/images/AeroPress.jpg)
 
 Other things you need:
 
