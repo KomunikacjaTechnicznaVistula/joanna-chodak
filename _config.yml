@@ -1,7 +1,8 @@
+
 name: Komunikacja Techniczna, Akademia Finansów i Biznesu Vistula
 title: How to brew a coffee in AeroPress manual
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
-remote_theme: KomunikacjaTechnicznaVistula/joanna-chodak
+remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: vistula
 
