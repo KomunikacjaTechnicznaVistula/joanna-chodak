@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Normal vs. Inverted AeroPress
-parent: How to brew a coffee in Aeropress
+parent: How to brew a coffee in AeroPress
 nav_order: 2
 ---
 # Normal vs. Inverted AeroPress
@@ -26,7 +26,7 @@ If you are a beginner, start with this method. This is the original way of how y
 - Add a coffee and water according to the recipe
 - When the brewing is complete, attach the Plunger and press it to instill the coffee into the cup
 
-![image](../../assets/images/AeroPress-Original-Coffee-Maker_700x.jpg)
+![image](./../../assets/images/AeroPress-Original-Coffee-Maker_700x.jpg)
 
 When you pour water it starts to drip through the filter immediately, which can cause less extraction of the coffee.
 
@@ -41,6 +41,6 @@ This method can be used when you are a new user of the AeroPress. It is slightly
 - After a stirring attach the Filter Cap with filters to the Chamber
 - When the brewing is complete flip the AeroPress, put it on the cup with a Filter Cap end directed downwards and press it to instill the coffee into the cup
   
-![image](../../assets/images/aeropress-plunge.jpg)
+![image](./../../assets/images/aeropress-plunge.jpg)
 
 This method allows you to brew a coffee for as long as you want because the coffee doesn't drip through the filter while brewing. When you flip the AeroPress, the grinds become fully saturated. For the safety reasons be careful when you flip the AeroPress. Please see [Safety notices](../Safety-notices/index.md)

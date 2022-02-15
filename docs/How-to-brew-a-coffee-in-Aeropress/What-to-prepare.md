@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What to prepare
-parent: How to brew a coffee in Aeropress
+parent: How to brew a coffee in AeroPress
 nav_order: 1
 ---
 
@@ -16,7 +16,7 @@ AeroPress parts:
 - Stirrer
 - Scoop
   
-![image](../../assets/images/aeropress.jpg)
+![image](./../../assets/images/aeropress.jpg)
 
 Other things you need:
 
