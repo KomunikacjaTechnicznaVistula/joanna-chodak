@@ -8,7 +8,7 @@ Parent: How to brew a coffee in Aeropress
 
 # What to prepare
 
-TAeroPress parts:
+AeroPress parts:
 
 - Plunger
 - Chamber

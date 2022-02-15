@@ -6,10 +6,15 @@ Parent: How to brew a coffee in Aeropress
 
 ---
 # Normal vs. Inverted AeroPress
-
+{: .no_toc}
 You can prepare a coffee in AeroPress in two ways.
+### Table of contents
+{: .no_toc}
 
-**Normal/Upright**
+1. TOC
+{:toc}
+
+## **Normal/Upright**
 
 If you are a beginner, start with this method. This is the original way of how you can brew a coffee.
 
@@ -24,7 +29,7 @@ When you pour water it starts to drip through the filter immediately, which can 
 
 This method can be used when you are a new user of the AeroPress. It is slightly easier and safer to the beginners than the Inverted method.
 
-**Inverted**
+## **Inverted**
 
 - Join the Chamber and the Plunger together
 - Set the rubber end of the Plunger on number 4 on the Chamber scale
