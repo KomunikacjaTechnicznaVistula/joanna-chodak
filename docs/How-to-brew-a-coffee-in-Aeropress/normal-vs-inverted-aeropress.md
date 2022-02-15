@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Normal vs. Inverted AeroPress
-nav_order: 2
 Parent: How to brew a coffee in Aeropress
+nav_order: 2
+
 ---
 # Normal vs. Inverted AeroPress
 {: .no_toc}
@@ -22,7 +23,7 @@ If you are a beginner, start with this method. This is the original way of how y
 - Add a coffee and water according to the recipe
 - When the brewing is complete, attach the Plunger and press it to instill the coffee into the cup
 
-![image](/assets/images/AeroPress-Original-Coffee-Maker_700x.jpg)
+![image](../../assets/images/AeroPress-Original-Coffee-Maker_700x.jpg)
 
 When you pour water it starts to drip through the filter immediately, which can cause less extraction of the coffee.
 
