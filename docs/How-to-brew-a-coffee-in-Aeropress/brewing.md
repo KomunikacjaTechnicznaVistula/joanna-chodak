@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Brewing
+title: Brewing!
 parent: How to brew a coffee in AeroPress
 nav_order: 3
 ---
