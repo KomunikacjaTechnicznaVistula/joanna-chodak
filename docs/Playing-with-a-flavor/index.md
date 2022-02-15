@@ -2,7 +2,6 @@
 layout: default
 title: Playing with a flavor
 nav_order: 3
-permalink: /
 ---
 
 # Playing with a flavor

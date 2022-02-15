@@ -3,7 +3,6 @@ layout: default
 title: Introduction
 nav_order: 1
 description: "AeroPress manual for beginners"
-permalink: /
 ---
 
 

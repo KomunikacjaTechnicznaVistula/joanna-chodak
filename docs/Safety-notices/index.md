@@ -2,11 +2,9 @@
 layout: default
 title: Safety notices
 nav_order: 4
-permalink: /
 ---
 
 # Safety notices
-
 {: .no_toc}
 
 Make sure the Filer Cap is strongly attached to the Chamber to prevent it from dropping out.
