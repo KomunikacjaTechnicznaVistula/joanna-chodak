@@ -7,6 +7,7 @@ permalink: /
 ---
 
 # Safety notices
+{: .no_toc}v
 
 Make sure the Filer Cap is strongly attached to the Chamber to prevent it from dropping out.
 

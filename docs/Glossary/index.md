@@ -8,6 +8,8 @@ permalink: /
 
 # Glossary
 
+{: .no_toc}
+
 **Agitation** - brisk stirring or disturbance of a liquid
 
 **Brewing** - The process of extracting the soluble material in roasted and ground coffee. As this coffee is brewed in hot water, hundreds of unique compounds are extracted from the ground beans – creating brewed coffee
