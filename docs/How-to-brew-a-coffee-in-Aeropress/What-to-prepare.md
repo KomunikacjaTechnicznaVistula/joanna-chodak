@@ -16,7 +16,7 @@ AeroPress parts:
 - Funnel
 - Stirrer
 - Scoop
-![image](images/../../../assets/images/aeropress.jpg)
+![image](/assets/images/aeropress.jpg)
 
 Other things you need:
 
