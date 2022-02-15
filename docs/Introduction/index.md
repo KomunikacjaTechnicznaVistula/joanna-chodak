@@ -2,7 +2,6 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "How to make a coffee with AeroPress"
 permalink: /
 ---
 

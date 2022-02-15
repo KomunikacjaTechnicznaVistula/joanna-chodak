@@ -2,7 +2,6 @@
 layout: default
 title: Playing with a flavor
 nav_order: 3
-description: "How to make a coffee with AeroPress"
 permalink: /
 ---
 

@@ -2,7 +2,6 @@
 layout: default
 title: Glossary
 nav_order: 5
-description: "How to make a coffee with AeroPress"
 permalink: /
 ---
 

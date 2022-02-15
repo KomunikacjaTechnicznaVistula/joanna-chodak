@@ -2,7 +2,6 @@
 layout: default
 title: Safety notices
 nav_order: 4
-description: "How to make a coffee with AeroPress"
 permalink: /
 ---
 
