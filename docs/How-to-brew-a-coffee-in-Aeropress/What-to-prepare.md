@@ -3,9 +3,7 @@ layout: default
 title: What to prepare
 nav_order: 1
 Parent: How to brew a coffee in Aeropress
-
 ---
-
 # What to prepare
 
 AeroPress parts:

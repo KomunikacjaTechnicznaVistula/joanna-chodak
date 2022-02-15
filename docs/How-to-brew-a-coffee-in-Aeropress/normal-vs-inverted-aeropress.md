@@ -3,7 +3,6 @@ layout: default
 title: Normal vs. Inverted AeroPress
 nav_order: 2
 Parent: How to brew a coffee in Aeropress
-
 ---
 # Normal vs. Inverted AeroPress
 {: .no_toc}

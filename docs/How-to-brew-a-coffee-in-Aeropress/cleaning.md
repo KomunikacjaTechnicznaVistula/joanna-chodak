@@ -3,7 +3,6 @@ layout: default
 title: Cleaning
 nav_order: 4
 Parent: How to brew a coffee in AeroPress
-
 ---
 # Cleaning
 
