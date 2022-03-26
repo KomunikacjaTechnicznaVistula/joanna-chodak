@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_visit_in_krakow">
+    <title>Visit in Krakow</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Kraków Four Day Itinerary SummaryDuration: Four days of 8 to 10 hours of touring –
+                excluding evening meals and strolls.</p>
+            <p> Areas Covered: Kraków Old Town; Wawel Hill; Auschwitz-Birkenau or the Wieliczka
+                Saltmines (with optional shopping in Old Town); art and culture highlights in
+                central Kraków; Nowa Huta; Podgórze and Kazimierz.</p>
+            <p> Sights visited: The Royal Route; Rynek Główny (Main Square and the Cloth Hall);
+                Rynek Underground; St. Mary’s Basilica; Church of St. Francis of Assisi; Wawel Hill
+                (Cathedral or Royal Apartments); Auschwitz-Birkenau or Wieliczka Saltmines; Plac
+                Szczepański; Collegium Maius; National Museum, Main Building; Nowa Huta; Arka Pana;
+                Ghetto Heroes Square; Pharmacy Under the Eagle; Schindler’s Factory; Kazimierz and
+                Szeroka Street; Galicia Jewish Museum.</p>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Day 1: Stare Miasto (Kraków Old Town) and Wawel </cmd>
+                <info>
+                    <ol id="ol_kpg_nrp_ysb">
+                        <li>8:00am: Breakfast: Milkbar Tomasza </li>
+                        <li> 9:00am: Rynek Główny </li>
+                        <li> 10:00am: Rynek Underground </li>
+                        <li> 11:30am: St. Mary’s Basilica </li>
+                        <li> 12:30pm: Sukiennice to Church of St. Francis of Assisi </li>
+                        <li> 1:00pm: Lunch: Grodzka Street </li>
+                        <li> 2:00pm: Wawel Hill </li>
+                        <li> 5:00pm: Dragon’s Den </li>
+                        <li> Early Evening: Rest at your hotel </li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd> Day 2: Auschwitz or the Wieliczka Saltmines and shopping </cmd>
+                <info>
+                    <ol id="ol_ibp_rrp_ysb">
+                        <li> 8:00am: Wieliczka Saltmines </li>
+                        <li> 12noon: Lunch: Pod Wawelem Kompania Kuflowa </li>
+                        <li> 2pm: Ciuciu Cukier Artist </li>
+                        <li> 2.30pm: World of Amber </li>
+                        <li> 3pm: Karmello </li>
+                        <li> 3.30pm: Galeria Plakatu (Cracow Poster Gallery) </li>
+                        <li> 4pm: Pasaż 13 </li>
+                        <li> 4.30pm: Szambelan </li>
+                        <li> 5.30pm: Massolit Books &amp; Café </li>
+                        <li> 7pm: Kogel Mogel </li>
+                        <li> 9pm: Wódka Café Bar </li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd>Day 3: Art and Culture and Nowa Huta </cmd>
+                <info>
+                    <ol id="ol_qgv_k45_ysb">
+                        <li>8:30am: Bistro Charlotte – Chleb i Wino </li>
+                        <li> 9.30am: Plac Szczepański and the Palace of Fine Arts </li>
+                        <li> 10am: Collegium Maius </li>
+                        <li> 11am: National Museum, Main Building </li>
+                        <li> 12.30pm: Lunch: Bunkier Cafe </li>
+                        <li> 2pm: Nowa Huta </li>
+                        <li> 3pm: Nowa Huta Museum </li>
+                        <li> 4.30pm: Arka Pana </li>
+                        <li> 5.30pm: Restauracja Stylowa </li>
+                        <li> 7pm: Night Stroll in Planty Park and Nocturnal Exploration of the Old
+                            Town </li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd> Day 4: Podgórze and Kazimierz </cmd>
+                <info>
+                    <ol id="ol_r2t_n45_ysb">
+                        <li>9:00am: Breakfast: Swoją Drogą </li>
+                        <li> 10:00am: Ghetto Heroes Square and Pharmacy Under the Eagle </li>
+                        <li> 11:00am: Schindler’s Factory </li>
+                        <li> 1:00pm: Bernatek Footbridge </li>
+                        <li> 1:30pm: Lunch in Kazimierz </li>
+                        <li> 2:30pm: Szeroka Street </li>
+                        <li> 4:00pm: Galicia Jewish Museum </li>
+                        <li> 5:00pm: Judah Square Food Truck Park </li>
+                        <li> 5:30pm: Bar hopping around plac Nowy </li>
+                    </ol>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

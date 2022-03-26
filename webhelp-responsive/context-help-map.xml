@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_krakow" path="Topics/c_krakow.html"/>
+   <appContext helpID="c_culture" path="Topics/c_culture.html"/>
+   <appContext helpID="c_music" path="Topics/c_music.html"/>
+   <appContext helpID="c_performing_arts" path="Topics/c_performing_arts.html"/>
+   <appContext helpID="r_festivals" path="Topics/r_festivals.html"/>
+   <appContext helpID="c_museums_and_national_art_galleries"
+               path="Topics/c_museums_and_national_art_galleries.html"/>
+   <appContext helpID="c_religion" path="Topics/c_religion.html"/>
+   <appContext helpID="c_tourism" path="Topics/c_tourism.html"/>
+   <appContext helpID="t_visit_in_krakow" path="Topics/t_visit_in_krakow.html"/>
+   <appContext helpID="c_transport" path="Topics/c_transport.html"/>
+</map>

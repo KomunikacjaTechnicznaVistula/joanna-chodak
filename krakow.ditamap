@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Krakow</title>
+    <topicref href="Topics/c_krakow.dita"/>
+    <topicref href="Topics/c_culture.dita">
+        <topicref href="Topics/c_music.dita"/>
+        <topicref href="Topics/c_performing_arts.dita"/>
+        <topicref href="Topics/r_festivals.dita"/>
+        <topicref href="Topics/c_museums_and_national_art_galleries.dita"/>
+    </topicref>
+    <topicref href="Topics/c_religion.dita"/>
+    <topicref href="Topics/c_tourism.dita">
+        <topicref href="Topics/t_visit_in_krakow.dita"/>
+    </topicref>
+    <topicref href="Topics/c_transport.dita"/>
+</map>

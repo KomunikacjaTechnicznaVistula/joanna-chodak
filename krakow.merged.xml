@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/D:/Soft%20Asi/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Soft%20Asi/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Soft%20Asi/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Soft%20Asi/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/ashes-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/D:/Soft%20Asi/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Asia/Desktop/Nowy%20folder/krakow.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Krakow</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Krakow</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_krakow"><resourceid appid="c_krakow" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Krakow</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Main information and short history</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_culture"><resourceid appid="c_culture" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Culture</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Information on main culture events in Krakow</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_music"><resourceid appid="c_music" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Music</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_performing_arts"><resourceid appid="c_performing_arts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Performing arts</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="r_festivals"><resourceid appid="r_festivals" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Festivals</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_museums_and_national_art_galleries"><resourceid appid="c_museums_and_national_art_galleries" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Museums and national art galleries</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_religion"><resourceid appid="c_religion" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Religion</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_tourism"><resourceid appid="c_tourism" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Tourism</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_visit_in_krakow"><resourceid appid="t_visit_in_krakow" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Visit in Krakow</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_transport"><resourceid appid="c_transport" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Transport</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="c_krakow" oid="c_krakow" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Krakow</ph></title>
+    <shortdesc class="- topic/shortdesc ">Main information and short history</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Kraków</b><sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-6" scope="external"><?ditaot usertext?>[a]</xref></sup> (Polish: <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Help:IPA/Polish" scope="external"><?ditaot usertext?>[ˈkrakuf]</xref>, also known in English as <b class="+ topic/ph hi-d/b ">Cracow</b>, is the second-largest and
+            one of the oldest cities in <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Poland" scope="external"><?ditaot usertext?>Poland</xref>. Situated on the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Vistula" scope="external"><?ditaot usertext?>Vistula
+                River</xref> in <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Lesser_Poland_Voivodeship" scope="external"><?ditaot usertext?>Lesser Poland Voivodeship</xref>, the city dates back
+            to the seventh century.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-History-7" scope="external"><?ditaot usertext?>[6]</xref></sup> Kraków was the official capital
+            of Poland until 1596<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-8" scope="external"><?ditaot usertext?>[7]</xref></sup> and has traditionally been one of the leading
+            centres of Polish academic, economic, cultural and artistic life. Cited as one of
+            Europe's most beautiful cities,<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-9" scope="external"><?ditaot usertext?>[8]</xref></sup> its <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w_Old_Town" scope="external"><?ditaot usertext?>Old Town</xref> with <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Wawel_Castle" scope="external"><?ditaot usertext?>Wawel Royal Castle</xref> was declared the first <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/UNESCO" scope="external"><?ditaot usertext?>UNESCO</xref>
+            <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/World_Heritage_Site" scope="external"><?ditaot usertext?>World Heritage Site</xref> in the world.</p>
+        <p class="- topic/p ">The city has grown from a <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Stone_Age" scope="external"><?ditaot usertext?>Stone Age</xref> settlement to Poland's
+            second-most-important city. It began as a hamlet on <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Wawel_Castle" scope="external"><?ditaot usertext?>Wawel Hill</xref> and was reported as a busy trading centre of Central Europe in
+                    965.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-History-7" scope="external"><?ditaot usertext?>[6]</xref></sup> With the establishment of new
+            universities and cultural venues at the emergence of the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Second_Polish_Republic" scope="external"><?ditaot usertext?>Second Polish Republic</xref> in 1918 and throughout the 20th
+            century, Kraków reaffirmed its role as a major national academic and artistic centre.
+            The city has a population of about 780,000, with approximately 8 million additional
+            people living within a 100 km (62 mi) radius of its <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Main_Market_Square,_Krak%C3%B3w" scope="external"><?ditaot usertext?>main square</xref>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-welcome-10" scope="external"><?ditaot usertext?>[9]</xref></sup></p>
+        <p class="- topic/p ">After the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Invasion_of_Poland" scope="external"><?ditaot usertext?>invasion of Poland</xref> by Nazi Germany at the start of <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/World_War_II" scope="external"><?ditaot usertext?>World War II</xref>, the newly defined <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Distrikt_Krakau" scope="external"><?ditaot usertext?>Distrikt Krakau</xref> (Kraków District) became the capital of Germany's <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/General_Government" scope="external"><?ditaot usertext?>General Government</xref>. The Jewish population of the city was
+            forced into a walled zone known as the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w_Ghetto" scope="external"><?ditaot usertext?>Kraków Ghetto</xref>, from where they were sent to Nazi <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Extermination_camp" scope="external"><?ditaot usertext?>extermination camps</xref> such as the nearby <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Auschwitz_concentration_camp" scope="external"><?ditaot usertext?>Auschwitz</xref>, and <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Nazi_concentration_camps" scope="external"><?ditaot usertext?>Nazi concentration camps</xref> like <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w-P%C5%82asz%C3%B3w_concentration_camp" scope="external"><?ditaot usertext?>Płaszów</xref>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-ARC-11" scope="external"><?ditaot usertext?>[10]</xref></sup> However, the city was spared from destruction
+            and major bombing.</p>
+        <p class="- topic/p ">In 1978, Karol Wojtyła, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Archbishop_of_Krak%C3%B3w" scope="external"><?ditaot usertext?>archbishop of Kraków</xref>, was elevated to the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Papacy" scope="external"><?ditaot usertext?>papacy</xref> as <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Pope_John_Paul_II" scope="external"><?ditaot usertext?>Pope John Paul II</xref>—the first non-Italian pope
+            in 455 years.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Clark-12" scope="external"><?ditaot usertext?>[11]</xref></sup> Also that year, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/UNESCO" scope="external"><?ditaot usertext?>UNESCO</xref> approved <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w_Old_Town" scope="external"><?ditaot usertext?>Kraków's entire Old Town and historic centre</xref> as its first
+                <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/World_Heritage_Site" scope="external"><?ditaot usertext?>World Heritage Site</xref> alongside <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Quito" scope="external"><?ditaot usertext?>Quito</xref>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Centre-13" scope="external"><?ditaot usertext?>[12]</xref></sup><sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-unesco-02com-14" scope="external"><?ditaot usertext?>[13]</xref></sup> Kraków is classified as a <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Global_city" scope="external"><?ditaot usertext?>global city</xref> with the ranking of "high sufficiency" by the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Globalization_and_World_Cities_Research_Network" scope="external"><?ditaot usertext?>Globalization and World Cities Research
+                Network</xref>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-15" scope="external"><?ditaot usertext?>[14]</xref></sup> Its extensive cultural heritage across the
+            epochs of <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Gothic_architecture" scope="external"><?ditaot usertext?>Gothic</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Renaissance_architecture" scope="external"><?ditaot usertext?>Renaissance</xref> and <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Baroque_architecture" scope="external"><?ditaot usertext?>Baroque architecture</xref> includes <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Wawel_Cathedral" scope="external"><?ditaot usertext?>Wawel Cathedral</xref> and <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Wawel_castle" scope="external"><?ditaot usertext?>Wawel Royal Castle</xref> on the banks of the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Vistula" scope="external"><?ditaot usertext?>Vistula</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/St._Mary%27s_Basilica,_Krak%C3%B3w" scope="external"><?ditaot usertext?>St. Mary's Basilica</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Saints_Peter_and_Paul_Church,_Krak%C3%B3w" scope="external"><?ditaot usertext?>Saints Peter and Paul Church</xref> and the largest
+                <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Medieval" scope="external"><?ditaot usertext?>medieval</xref> market square in Europe, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Main_Square,_Krak%C3%B3w" scope="external"><?ditaot usertext?>Rynek Główny</xref>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-16" scope="external"><?ditaot usertext?>[15]</xref></sup> Kraków is home to <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Jagiellonian_University" scope="external"><?ditaot usertext?>Jagiellonian University</xref>, one of the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/List_of_oldest_universities_in_continuous_operation" scope="external"><?ditaot usertext?>oldest universities in the world</xref> and
+            traditionally Poland's most reputable institution of higher learning.</p>
+        <p class="- topic/p ">In 2000, Kraków was named <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/European_Capital_of_Culture" scope="external"><?ditaot usertext?>European Capital of Culture</xref>. In 2013, Kraków was officially
+            approved as a <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/UNESCO_City_of_Literature" scope="external"><?ditaot usertext?>UNESCO City of Literature</xref>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-17" scope="external"><?ditaot usertext?>[16]</xref></sup> The city hosted <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/World_Youth_Day" scope="external"><?ditaot usertext?>World Youth Day</xref> in July 2016.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-18" scope="external"><?ditaot usertext?>[17]</xref></sup></p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="c_culture" oid="c_culture" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Culture</ph></title>
+    <shortdesc class="- topic/shortdesc ">Information on main culture events in Krakow</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Kraków was named the official <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/European_Capital_of_Culture" scope="external"><?ditaot usertext?>European Capital of Culture</xref> for the year 2000 by the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/European_Union" scope="external"><?ditaot usertext?>European Union</xref>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-European_Capital_of_Culture_in_Poland_again-192" scope="external"><?ditaot usertext?>[191]</xref></sup> It is a major attraction for
+            both local and international tourists, attracting nearly 13 million visitors a
+                    year.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-193" scope="external"><?ditaot usertext?>[192]</xref></sup> Major landmarks include the
+                <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Main_Market_Square,_Krak%C3%B3w" scope="external"><?ditaot usertext?>Main Market Square</xref> with <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/St._Mary%27s_Basilica,_Krak%C3%B3w" scope="external"><?ditaot usertext?>St. Mary's Basilica</xref> and the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Sukiennice" scope="external"><?ditaot usertext?>Sukiennice Cloth Hall</xref>, the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Wawel_Castle" scope="external"><?ditaot usertext?>Wawel Castle</xref>, the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/National_Museum,_Krak%C3%B3w" scope="external"><?ditaot usertext?>National Art Museum</xref>, the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Zygmunt_(bell)" scope="external"><?ditaot usertext?>Zygmunt Bell</xref> at the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Wawel_Cathedral" scope="external"><?ditaot usertext?>Wawel Cathedral</xref>, and the medieval <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/St._Florian%27s_Gate" scope="external"><?ditaot usertext?>St. Florian's Gate</xref> with the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w_barbican" scope="external"><?ditaot usertext?>Barbican</xref> along the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Royal_Road,_Krak%C3%B3w" scope="external"><?ditaot usertext?>Royal Coronation Route</xref>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-krakow-info-194" scope="external"><?ditaot usertext?>[193]</xref></sup> Kraków has 28 museums and
+                <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Public_art" scope="external"><?ditaot usertext?>public art</xref> galleries. Among them is the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Czartoryski_Museum" scope="external"><?ditaot usertext?>Czartoryski Museum</xref> featuring works by <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Leonardo_da_Vinci" scope="external"><?ditaot usertext?>Leonardo da Vinci</xref> and <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Rembrandt" scope="external"><?ditaot usertext?>Rembrandt</xref> as well as the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/EUROPEUM_-_European_Culture_Centre" scope="external"><?ditaot usertext?>EUROPEUM - European Culture Centre</xref> and the
+                <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Archaeological_Museum_of_Krak%C3%B3w" scope="external"><?ditaot usertext?>Archaeological Museum of Kraków</xref> whose
+            collection highlights include the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Zbruch_Idol" scope="external"><?ditaot usertext?>Zbruch Idol</xref> and the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Bronocice_pot" scope="external"><?ditaot usertext?>Bronocice Pot</xref>.</p>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="c_music" oid="c_music" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Music</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Opera_Krakowska" scope="external"><?ditaot usertext?>Opera Krakowska</xref><sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-krakowska-205" scope="external"><?ditaot usertext?>[204]</xref></sup> one of the leading national
+            opera companies, stages 200 performances each year including ballet, operettas and
+            musicals. It has, in its main repertoire, the greatest world and Polish opera classics.
+            The Opera moved into its first permanent House in the autumn of 2008. It is in charge
+            also of the <i class="+ topic/ph hi-d/i ">Summer Festival of Opera and Operetta</i>.</p>
+        <p class="- topic/p ">Kraków is home to two major Polish festivals of <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Early_music" scope="external"><?ditaot usertext?>early music</xref> presenting forgotten Baroque oratorios and operas: <i class="+ topic/ph hi-d/i ">Opera
+                Rara</i>,<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Opera_Rara_%E2%80%93_Krak%C3%B3w_%E2%80%93_8_December_2011-206" scope="external"><?ditaot usertext?>[205]</xref></sup> and <i class="+ topic/ph hi-d/i ">Misteria
+                    Paschalia</i>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-misteriapaschalia-207" scope="external"><?ditaot usertext?>[206]</xref></sup> Meanwhile, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Capella_Cracoviensis" scope="external"><?ditaot usertext?>Capella Cracoviensis</xref> runs the <i class="+ topic/ph hi-d/i ">Music in Old Krakow
+                International Festival</i>.</p>
+        <p class="- topic/p ">Academy of Music in Kraków, founded in 1888, is known worldwide as the <i class="+ topic/ph hi-d/i ">alma mater</i>
+            of the contemporary Polish composer <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krzysztof_Penderecki" scope="external"><?ditaot usertext?>Krzysztof Penderecki</xref> and it is also the only one in Poland
+            to have two winners of the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/International_Chopin_Competition" scope="external"><?ditaot usertext?>International Chopin Competition</xref> in Warsaw among its alumni.
+            The academy organises concerts of its students and guests throughout the whole
+                    year.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-History_%E2%80%93_Krakow_Music_Academy-208" scope="external"><?ditaot usertext?>[207]</xref></sup></p>
+        <p class="- topic/p ">Music organisations and venues include: Kraków Philharmonic,<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-krakow_fil-209" scope="external"><?ditaot usertext?>[208]</xref></sup>
+            <i class="+ topic/ph hi-d/i ">Sinfonietta Cracovia</i> (a.k.a. the Orchestra of the Royal City of Kraków), the
+            Polish Radio Choir of Kraków, <i class="+ topic/ph hi-d/i ">Organum</i> Academic Choir, the Mixed <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Maria%C5%84ski_Choir" scope="external"><?ditaot usertext?>Mariański Choir</xref> (<i class="+ topic/ph hi-d/i ">Mieszany Chór Mariański</i>), Kraków
+            Academic Choir of the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Jagiellonian_University" scope="external"><?ditaot usertext?>Jagiellonian University</xref>, the Kraków Chamber
+            Choir, <i class="+ topic/ph hi-d/i ">Amar Corde</i> String Quartet, <i class="+ topic/ph hi-d/i ">Consortium Iagellonicum</i> Baroque
+            Orchestra of the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Jagiellonian_University" scope="external"><?ditaot usertext?>Jagiellonian University</xref>, Brass Band of T.
+            Sendzimir Steelworks, and <i class="+ topic/ph hi-d/i ">Camerata</i> Chamber Orchestra of Radio Kraków.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="c_performing_arts" oid="c_performing_arts" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Performing arts</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The city has several famous theatres, including the Narodowy Stary Teatr (the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/National_Old_Theatre" scope="external"><?ditaot usertext?>National Old Theatre</xref>),<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Stary_Teatr_w_Krakowie,_homepage_in_Polish-201" scope="external"><?ditaot usertext?>[200]</xref></sup> the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Juliusz_S%C5%82owacki_Theatre" scope="external"><?ditaot usertext?>Juliusz Słowacki Theatre</xref>, the Bagatela Theatre, the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Ludowy_Theatre" scope="external"><?ditaot usertext?>Ludowy Theatre</xref>, and the Groteska Theatre of Puppetry, as well as the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Opera_Krakowska" scope="external"><?ditaot usertext?>Opera Krakowska</xref> and Kraków Operetta. The city's principal concert hall and
+            the home of the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w_Philharmonic_Orchestra" scope="external"><?ditaot usertext?>Kraków Philharmonic Orchestra</xref> is the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w_Philharmonic" scope="external"><?ditaot usertext?>Kraków Philharmonic</xref> (<i class="+ topic/ph hi-d/i ">Filharmonia Krakowska</i>) built in
+                    1931.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-KP-202" scope="external"><?ditaot usertext?>[201]</xref></sup></p>
+        <p class="- topic/p ">Kraków hosts many annual and biannual artistic events,<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-krakow.pl-1-203" scope="external"><?ditaot usertext?>[202]</xref></sup> some of international
+            significance such as the Misteria Paschalia (Baroque music), Sacrum-Profanum
+            (contemporary music), the Krakow Screen Festival (<xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Popular_music" scope="external"><?ditaot usertext?>popular music</xref>), the Festival of <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Music_of_Poland" scope="external"><?ditaot usertext?>Polish Music</xref> (classical music), Dedications (theatre), the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w_Film_Festival" scope="external"><?ditaot usertext?>Kraków Film Festival</xref> (one of Europe's oldest short films
+                    events),<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Krakowski_Festiwal_Filmowy-204" scope="external"><?ditaot usertext?>[203]</xref></sup>
+            <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Etiuda%26Anima_International_Film_Festival" scope="external"><?ditaot usertext?>Etiuda&amp;Anima International Film Festival</xref>
+            (the oldest international art-film event in Poland), Biennial of <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Graphic_arts" scope="external"><?ditaot usertext?>Graphic Arts</xref>, and the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Jewish_Culture_Festival" scope="external"><?ditaot usertext?>Jewish Culture Festival</xref>. Kraków was the residence of two
+            Polish <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Nobel_Prize" scope="external"><?ditaot usertext?>Nobel</xref> laureates in literature, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Wis%C5%82awa_Szymborska" scope="external"><?ditaot usertext?>Wisława Szymborska</xref> and <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Czes%C5%82aw_Mi%C5%82osz" scope="external"><?ditaot usertext?>Czesław Miłosz</xref>; a third <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/List_of_Nobel_laureates" scope="external"><?ditaot usertext?>Nobel laureate</xref>, the Yugoslav writer <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Ivo_Andri%C4%87" scope="external"><?ditaot usertext?>Ivo Andric</xref>, lived and studied in Kraków. Other former longtime residents
+            include internationally renowned <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Cinema_of_Poland" scope="external"><?ditaot usertext?>Polish film</xref> directors <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Andrzej_Wajda" scope="external"><?ditaot usertext?>Andrzej Wajda</xref> and <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Roman_Polanski" scope="external"><?ditaot usertext?>Roman Polanski</xref>, both of whom are <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Academy_Award" scope="external"><?ditaot usertext?>Academy Award</xref> winners.</p>
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="r_festivals" oid="r_festivals" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Festivals</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " id="unique_5_Connect_42_table_nbk_kqp_ysb" nd:nd-id="table_nbk_kqp_ysb">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Festivals that are the most popular among recipients, organized by the Krakow
+                Festival Office</ph></title>
+            <tgroup class="- topic/tgroup " cols="3">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;11:51" xtrf="file:/C:/Users/Asia/Desktop/Nowy%20folder/Topics/r_festivals.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;12:51" xtrf="file:/C:/Users/Asia/Desktop/Nowy%20folder/Topics/r_festivals.dita"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" xtrc="colspec:3;13:51" xtrf="file:/C:/Users/Asia/Desktop/Nowy%20folder/Topics/r_festivals.dita"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Festival name / date</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1"> Cooperating entities </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">Number of participants</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Wianki – The Fête de la Musique </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">City of Krakow</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">90,000</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Film Music Festival</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">RMF Music, City of Krakow</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">31,202</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Conrad Festival</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">City of Krakow, Krakow UNESCO City of Literature, Tygodnik Powszechny
+                            Foundation</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">21,000</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Etno Krakow Festival</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">City of Krakow, Rozstaje Association: U Zbiegu Kultur i
+                            Tradycji</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">6,775</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">Mysteria Paschalia Festival </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">City of Krakow, French Institute</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">5,569</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">Sacrum Profanum Festival </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">City of Krakow, Millennium Bank, Bunkier Gallery of Contemporary
+                            Art</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7">5,126</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">Opera Rara Festival </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">Capella Cracoviensis, City of Krakow, MOCAK Museum of Contemporary
+                            Art in Krakow</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8">4,654</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">Miłosz Festival</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">City of Krakow, City of Literature Foundation</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="9">2,400</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="c_museums_and_national_art_galleries" oid="c_museums_and_national_art_galleries" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Museums and national art galleries</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <div class="- topic/div ">
+                <p class="- topic/p ">Kraków's 28 museums are separated into the national and municipal museums; the
+                    city also has a number of art collections and public art galleries. The <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/National_Museum,_Krak%C3%B3w" scope="external"><?ditaot usertext?>National Museum</xref>, established in 1879,
+                    as well as the National Art Collection on <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Wawel_Hill" scope="external"><?ditaot usertext?>Wawel Hill</xref>, are all accessible to the general
+                    public.</p>
+                <p class="- topic/p ">The National Art Collection is located at the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Wawel" scope="external"><?ditaot usertext?>Wawel</xref>, the former residence of three dynasties of Polish monarchs.
+                    Royal Chambers feature art, period furniture, Polish and European paintings,
+                    collectibles, and a major collection of 16th-century monumental <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Flemish_people" scope="external"><?ditaot usertext?>Flemish</xref>
+                    <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Tapestry" scope="external"><?ditaot usertext?>tapestries</xref>. Wawel Treasury and Armoury features
+                    Polish royal memorabilia, jewels, applied art, and 15th- to 18th-century arms.
+                    The Wawel Eastern Collection features <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Turkey" scope="external"><?ditaot usertext?>Turkish</xref> tents and military accessories. The National Museum holds
+                    the largest body of artworks in the country with collections consisting of
+                    several hundred thousand items kept in big part in the Main Building at Ul. 3
+                    Maja, although there are eleven other separate divisions of the museum in the
+                    city, one of the most popular being <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Sukiennice_Museum" scope="external"><?ditaot usertext?>The Gallery of the 19th Century Polish Art in
+                        Sukiennice</xref> with the collection of some of the best known paintings
+                    and sculptures of the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Young_Poland" scope="external"><?ditaot usertext?>Young Poland</xref> movement. The latest
+                    division called <i class="+ topic/ph hi-d/i "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/EUROPEUM_%E2%80%93_European_Culture_Centre" scope="external"><?ditaot usertext?>Europeum</xref></i> with <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Pieter_Brueghel_the_Younger" scope="external"><?ditaot usertext?>Brueghel</xref> among a hundred Western
+                    European paintings was inaugurated in 2013.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-mkidn.gov.pl-195" scope="external"><?ditaot usertext?>[194]</xref></sup></p>
+                <p class="- topic/p ">Other notable museums in Kraków include the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Manggha" scope="external"><?ditaot usertext?>Manggha</xref> Museum of Japanese Art and Technology (at M. Konopnickiej
+                            26),<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Wyspia%C5%84ski-196" scope="external"><?ditaot usertext?>[195]</xref></sup>
+                    <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Stanis%C5%82aw_Wyspia%C5%84ski" scope="external"><?ditaot usertext?>Stanisław Wyspiański</xref> Museum (at 11
+                    Szczepanska St),<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Wyspia%C5%84ski-196" scope="external"><?ditaot usertext?>[195]</xref></sup> Jan Matejko Manor in
+                            Krzesławice,<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Matejko-54" scope="external"><?ditaot usertext?>[53]</xref></sup> – a museum devoted to
+                    the master painter and his life, Emeryk Hutten Czapski Museum,<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Czapski-197" scope="external"><?ditaot usertext?>[196]</xref></sup> and <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/J%C3%B3zef_Mehoffer" scope="external"><?ditaot usertext?>Józef Mehoffer</xref> Manor.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Wyspia%C5%84ski-196" scope="external"><?ditaot usertext?>[195]</xref></sup></p>
+                <p class="- topic/p ">The Rynek Underground museum, under the main square, showcases Kraków's over
+                    1000-year history though its streets, activities and artifacts. The construction
+                    of the museum was preceded by extensive excavations which started in
+                            2005<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-198" scope="external"><?ditaot usertext?>[197]</xref></sup> and, as more and more
+                    was found, continued eventually until 2010.</p>
+                <p class="- topic/p ">Krakil - Museum of illusions is a space where illusions meet scientific
+                    inventions and the arts: physics and optics are displayed together with artworks
+                    and classical riddles.</p>
+                <p class="- topic/p ">The <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Polish_Aviation_Museum" scope="external"><?ditaot usertext?>Polish Aviation Museum</xref>, considered the
+                    world's eigth best aviation museum by <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/CNN" scope="external"><?ditaot usertext?>CNN</xref>, features over 200 aircraft including a <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Sopwith_Camel" scope="external"><?ditaot usertext?>Sopwith Camel</xref> among other First World War biplanes;
+                    a comprehensive display of aero engines; and a complete collection of airplane
+                    types developed by Poland after 1945.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-199" scope="external"><?ditaot usertext?>[198]</xref></sup> Activities of smaller
+                    museums around Kraków and in the Lesser Poland region are promoted and supported
+                    by the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Ma%C5%82opolska_Institute_of_Culture" scope="external"><?ditaot usertext?>Małopolska Institute of Culture</xref>; the
+                    Institute organises annual Małopolska Heritage Days.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-200" scope="external"><?ditaot usertext?>[199]</xref></sup></p>
+            </div>
+        </p>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="c_religion" oid="c_religion" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Religion</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The metropolitan city of Kraków is known as the city of churches. The abundance of
+            landmark, historic temples along with the plenitude of monasteries and convents earned
+            the city a countrywide reputation as the "Northern Rome" in the past. The churches of
+            Kraków comprise over 120 places of worship (2007) of which over 65 were built in the
+            20th century. More are still being added.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-diecezja-168" scope="external"><?ditaot usertext?>[167]</xref></sup> In addition to <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Roman_Catholicism" scope="external"><?ditaot usertext?>Roman Catholicism</xref>, other denominations present include <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses" scope="external"><?ditaot usertext?>Jehovah's Witnesses</xref>,<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-169" scope="external"><?ditaot usertext?>[168]</xref></sup>
+            <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Mariavite_Church" scope="external"><?ditaot usertext?>Mariavite Church</xref>, Polish Catholic Church, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Polish_Orthodox_Church" scope="external"><?ditaot usertext?>Polish Orthodox Church</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Protestantism" scope="external"><?ditaot usertext?>Protestantism</xref> and <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Latter-Day_Saints" scope="external"><?ditaot usertext?>Latter-Day Saints</xref>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-170" scope="external"><?ditaot usertext?>[169]</xref></sup></p>
+        <p class="- topic/p ">As of 2017, weekly Mass attendance in the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Archdiocese_of_Krakow" scope="external"><?ditaot usertext?>Archdiocese of Krakow</xref> was 49.9 percent, above the national
+            Polish average of 38.3 percent.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-171" scope="external"><?ditaot usertext?>[170]</xref></sup></p>
+        <p class="- topic/p ">Kraków contains also an outstanding collection of monuments of Jewish <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Sacred_architecture" scope="external"><?ditaot usertext?>sacred architecture</xref> unmatched anywhere in Poland. Kraków was
+            an influential centre of Jewish spiritual life before the outbreak of World War II, with
+            all its manifestations of religious observance from <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Orthodox_Judaism" scope="external"><?ditaot usertext?>Orthodox</xref> to <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Hasidic_Judaism" scope="external"><?ditaot usertext?>Hasidic</xref> and <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Reform_Judaism" scope="external"><?ditaot usertext?>Reform</xref> flourishing side by side. There were at least 90 synagogues in Kraków
+            active before the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Nazi_German" scope="external"><?ditaot usertext?>Nazi German</xref> invasion of Poland, serving its burgeoning
+            Jewish community of 60,000–80,000 (out of the city's total population of 237,000),
+            established since the early 12th century.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Dylewski-172" scope="external"><?ditaot usertext?>[171]</xref></sup></p>
+        <p class="- topic/p ">Most synagogues of Kraków were ruined during World War II by the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Nazis" scope="external"><?ditaot usertext?>Nazis</xref> who despoiled them of all ceremonial objects, and used them as
+            storehouses for ammunition, firefighting equipment, as general storage facilities and
+            stables. The post-<xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/The_Holocaust" scope="external"><?ditaot usertext?>Holocaust</xref> Jewish population of the city had dwindled to
+            about 5,900 before the end of the 1940s. Poland was the only <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Eastern_Bloc" scope="external"><?ditaot usertext?>Eastern Bloc</xref> country to allow free Jewish <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Aliyah" scope="external"><?ditaot usertext?>aliyah</xref> (emigration to Israel) without visas or exit permits upon the
+            conclusion of World War II.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-D-H-173" scope="external"><?ditaot usertext?>[172]</xref></sup> By contrast, Stalin forcibly kept Russian
+            Jews in the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Soviet_Union" scope="external"><?ditaot usertext?>Soviet Union</xref>, as agreed to in the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Yalta_Conference" scope="external"><?ditaot usertext?>Yalta Conference</xref>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Kochavi-15-174" scope="external"><?ditaot usertext?>[173]</xref></sup> In recent time, thanks to
+            efforts of the local Jewish and Polish organisations including foreign financial aid
+            from the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/American_Jewish_Joint_Distribution_Committee" scope="external"><?ditaot usertext?>American Jewish Joint Distribution Committee</xref>,
+            many synagogues underwent major restorations and serve religious and tourist
+                    purposes.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-jewish-guide-175" scope="external"><?ditaot usertext?>[174]</xref></sup></p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="c_tourism" oid="c_tourism" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Tourism</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">According to official statistics, in 2019 Kraków was visited by over 14 million tourists
+            including 3.3 million foreign travellers. The visitors spent over 7.5 billion <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Z%C5%82oty" scope="external"><?ditaot usertext?>złoty</xref> (ca. €1.7 billion) in the city (without travel costs and pre-booked
+            accommodation). Most foreign tourists came from Germany (14.2%), United Kingdom (13.9%),
+            Italy (11.5%), France (11.2%), Spain (10.4%) and Ukraine (5.4%).<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-210" scope="external"><?ditaot usertext?>[209]</xref></sup> The Kraków tour-guide from the Lesser Poland
+            Visitors Bureau indicated that not all statistics are recorded due to the considerable
+            number of those who come, staying in readily available private rooms paid for by cash,
+            especially from <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Eastern_Europe" scope="external"><?ditaot usertext?>Eastern Europe</xref>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-rp.pl/398262-211" scope="external"><?ditaot usertext?>[210]</xref></sup></p>
+        <p class="- topic/p ">The main reasons for visiting the city are: its historical monuments, recreation as well
+            as relatives and friends (placing third in the ranking), religion and business. There
+            are 120 quality hotels in Kraków (usually about half full) offering 15,485 overnight
+                    accommodations.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-intur.com-212" scope="external"><?ditaot usertext?>[211]</xref></sup> The average stay last for
+            about 4 to 7 nights. The survey conducted among the travelers showed that they enjoyed
+            the city's friendliness most, with 90% of Polish tourists and 87% foreigners stating
+            that they would recommend visiting it.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-rp.pl/398262-211" scope="external"><?ditaot usertext?>[210]</xref></sup> Notable points of interest
+            outside the city include the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Wieliczka_Salt_Mine" scope="external"><?ditaot usertext?>Wieliczka salt mine</xref>, the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Tatra_Mountains" scope="external"><?ditaot usertext?>Tatra Mountains</xref> 100 km (62 mi) to the south, the historic city of <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Cz%C4%99stochowa" scope="external"><?ditaot usertext?>Częstochowa</xref> (north-west), the well-preserved former Nazi concentration camp
+            at <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Auschwitz-Birkenau_State_Museum" scope="external"><?ditaot usertext?>Auschwitz</xref>, and <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Ojc%C3%B3w_National_Park" scope="external"><?ditaot usertext?>Ojcowski National Park</xref>,<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Krakow_Day_Trips-213" scope="external"><?ditaot usertext?>[212]</xref></sup> which includes <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Renaissance_in_Poland" scope="external"><?ditaot usertext?>the Renaissance</xref> Castle at <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Pieskowa_Ska%C5%82a" scope="external"><?ditaot usertext?>Pieskowa Skała</xref>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Top_10_things_to_do_in_Krak%C3%B3w-214" scope="external"><?ditaot usertext?>[213]</xref></sup> Kraków has been awarded a
+            number of top international rankings such as the 1st place in the <i class="+ topic/ph hi-d/i ">Top city-break
+                destinations 2014</i> survey conducted by the British <i class="+ topic/ph hi-d/i "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Which%3F" scope="external"><?ditaot usertext?>Which?</xref></i>.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-215" scope="external"><?ditaot usertext?>[214]</xref></sup></p>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="t_visit_in_krakow" oid="t_visit_in_krakow" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Visit in Krakow</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Kraków Four Day Itinerary SummaryDuration: Four days of 8 to 10 hours of touring –
+                excluding evening meals and strolls.</p>
+            <p class="- topic/p "> Areas Covered: Kraków Old Town; Wawel Hill; Auschwitz-Birkenau or the Wieliczka
+                Saltmines (with optional shopping in Old Town); art and culture highlights in
+                central Kraków; Nowa Huta; Podgórze and Kazimierz.</p>
+            <p class="- topic/p "> Sights visited: The Royal Route; Rynek Główny (Main Square and the Cloth Hall);
+                Rynek Underground; St. Mary’s Basilica; Church of St. Francis of Assisi; Wawel Hill
+                (Cathedral or Royal Apartments); Auschwitz-Birkenau or Wieliczka Saltmines; Plac
+                Szczepański; Collegium Maius; National Museum, Main Building; Nowa Huta; Arka Pana;
+                Ghetto Heroes Square; Pharmacy Under the Eagle; Schindler’s Factory; Kazimierz and
+                Szeroka Street; Galicia Jewish Museum.</p>
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Day 1: Stare Miasto (Kraków Old Town) and Wawel </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ol class="- topic/ol " id="unique_9_Connect_42_ol_kpg_nrp_ysb" nd:nd-id="ol_kpg_nrp_ysb">
+                        <li class="- topic/li ">8:00am: Breakfast: Milkbar Tomasza </li>
+                        <li class="- topic/li "> 9:00am: Rynek Główny </li>
+                        <li class="- topic/li "> 10:00am: Rynek Underground </li>
+                        <li class="- topic/li "> 11:30am: St. Mary’s Basilica </li>
+                        <li class="- topic/li "> 12:30pm: Sukiennice to Church of St. Francis of Assisi </li>
+                        <li class="- topic/li "> 1:00pm: Lunch: Grodzka Street </li>
+                        <li class="- topic/li "> 2:00pm: Wawel Hill </li>
+                        <li class="- topic/li "> 5:00pm: Dragon’s Den </li>
+                        <li class="- topic/li "> Early Evening: Rest at your hotel </li>
+                    </ol>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> Day 2: Auschwitz or the Wieliczka Saltmines and shopping </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ol class="- topic/ol " id="unique_9_Connect_42_ol_ibp_rrp_ysb" nd:nd-id="ol_ibp_rrp_ysb">
+                        <li class="- topic/li "> 8:00am: Wieliczka Saltmines </li>
+                        <li class="- topic/li "> 12noon: Lunch: Pod Wawelem Kompania Kuflowa </li>
+                        <li class="- topic/li "> 2pm: Ciuciu Cukier Artist </li>
+                        <li class="- topic/li "> 2.30pm: World of Amber </li>
+                        <li class="- topic/li "> 3pm: Karmello </li>
+                        <li class="- topic/li "> 3.30pm: Galeria Plakatu (Cracow Poster Gallery) </li>
+                        <li class="- topic/li "> 4pm: Pasaż 13 </li>
+                        <li class="- topic/li "> 4.30pm: Szambelan </li>
+                        <li class="- topic/li "> 5.30pm: Massolit Books &amp; Café </li>
+                        <li class="- topic/li "> 7pm: Kogel Mogel </li>
+                        <li class="- topic/li "> 9pm: Wódka Café Bar </li>
+                    </ol>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Day 3: Art and Culture and Nowa Huta </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ol class="- topic/ol " id="unique_9_Connect_42_ol_qgv_k45_ysb" nd:nd-id="ol_qgv_k45_ysb">
+                        <li class="- topic/li ">8:30am: Bistro Charlotte – Chleb i Wino </li>
+                        <li class="- topic/li "> 9.30am: Plac Szczepański and the Palace of Fine Arts </li>
+                        <li class="- topic/li "> 10am: Collegium Maius </li>
+                        <li class="- topic/li "> 11am: National Museum, Main Building </li>
+                        <li class="- topic/li "> 12.30pm: Lunch: Bunkier Cafe </li>
+                        <li class="- topic/li "> 2pm: Nowa Huta </li>
+                        <li class="- topic/li "> 3pm: Nowa Huta Museum </li>
+                        <li class="- topic/li "> 4.30pm: Arka Pana </li>
+                        <li class="- topic/li "> 5.30pm: Restauracja Stylowa </li>
+                        <li class="- topic/li "> 7pm: Night Stroll in Planty Park and Nocturnal Exploration of the Old
+                            Town </li>
+                    </ol>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> Day 4: Podgórze and Kazimierz </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ol class="- topic/ol " id="unique_9_Connect_42_ol_r2t_n45_ysb" nd:nd-id="ol_r2t_n45_ysb">
+                        <li class="- topic/li ">9:00am: Breakfast: Swoją Drogą </li>
+                        <li class="- topic/li "> 10:00am: Ghetto Heroes Square and Pharmacy Under the Eagle </li>
+                        <li class="- topic/li "> 11:00am: Schindler’s Factory </li>
+                        <li class="- topic/li "> 1:00pm: Bernatek Footbridge </li>
+                        <li class="- topic/li "> 1:30pm: Lunch in Kazimierz </li>
+                        <li class="- topic/li "> 2:30pm: Szeroka Street </li>
+                        <li class="- topic/li "> 4:00pm: Galicia Jewish Museum </li>
+                        <li class="- topic/li "> 5:00pm: Judah Square Food Truck Park </li>
+                        <li class="- topic/li "> 5:30pm: Bar hopping around plac Nowy </li>
+                    </ol>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="c_transport" oid="c_transport" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Transport</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Public transport is based on a fairly dense network of tram and bus routes operated by a
+            municipal company, supplemented by a number of private minibus operators. Local trains
+            connect some of the suburbs. The bulk of the city's historic area has been turned into a
+                <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Pedestrian_zone" scope="external"><?ditaot usertext?>pedestrian zone</xref> with rickshaws and horse-drawn carriages;
+            however, the trams run within a three-block radius.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-Krakow._Varied_Means_of_Transportation-153" scope="external"><?ditaot usertext?>[152]</xref></sup> The historic means of
+            transportation in the city can be examined at the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Muzeum_In%C5%BCynierii_Miejskiej_w_Krakowie" scope="external"><?ditaot usertext?>Museum of Municipal Engineering</xref> in the
+            Kazimierz district, with many old trams, cars and buses.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-154" scope="external"><?ditaot usertext?>[153]</xref></sup></p>
+        <p class="- topic/p ">Railway connections are available to most <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Poland" scope="external"><?ditaot usertext?>Polish cities</xref>, e.g. <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Katowice" scope="external"><?ditaot usertext?>Katowice</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Cz%C4%99stochowa" scope="external"><?ditaot usertext?>Częstochowa</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Szczecin" scope="external"><?ditaot usertext?>Szczecin</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Gdynia" scope="external"><?ditaot usertext?>Gdynia</xref> and <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Warsaw" scope="external"><?ditaot usertext?>Warsaw</xref>. International destinations include
+                <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Bratislava" scope="external"><?ditaot usertext?>Bratislava</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Budapest" scope="external"><?ditaot usertext?>Budapest</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Vienna" scope="external"><?ditaot usertext?>Vienna</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Prague" scope="external"><?ditaot usertext?>Prague</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Berlin" scope="external"><?ditaot usertext?>Berlin</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Hamburg" scope="external"><?ditaot usertext?>Hamburg</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Lviv" scope="external"><?ditaot usertext?>Lviv</xref>, <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Kyiv" scope="external"><?ditaot usertext?>Kyiv</xref>, and <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Odessa" scope="external"><?ditaot usertext?>Odessa</xref> (June–September).<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-International_railway_connections_from_Krak%C3%B3w-155" scope="external"><?ditaot usertext?>[154]</xref></sup> The <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w_G%C5%82%C3%B3wny_railway_station" scope="external"><?ditaot usertext?>main railway station</xref> is located just outside
+            the Old Town District and is well-served by public transport.</p>
+        <p class="- topic/p ">Kraków's airport, officially named <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w_John_Paul_II_International_Airport" scope="external"><?ditaot usertext?>Kraków John Paul II International Airport</xref>
+                (<xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/IATA_airport_code" scope="external"><?ditaot usertext?>IATA</xref>: <b class="+ topic/ph hi-d/b ">KRK</b>), is located 11 km (7 mi) west of the city.
+            Direct trains cover the route between <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w_G%C5%82%C3%B3wny" scope="external"><?ditaot usertext?>Kraków Główny train station</xref> and the airport in 20 minutes.
+            Kraków Airport served around 5,800,000 passengers in 2017.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-156" scope="external"><?ditaot usertext?>[155]</xref></sup> Also, the <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Katowice_International_Airport" scope="external"><?ditaot usertext?>Katowice International Airport</xref> is located 80 kilometres (50
+            miles) or about 75 minutes from Kraków.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-e-krakow-157" scope="external"><?ditaot usertext?>[156]</xref></sup></p>
+        <p class="- topic/p ">In Autumn 2016 Poland's oldest <xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Bicycle-sharing_system" scope="external"><?ditaot usertext?>Bicycle-sharing system</xref> was modernized and now offers 1,500
+            bikes at 150 stations under the name of Wavelo <i class="+ topic/ph hi-d/i "><xref class="- topic/xref " format="html" href="https://pl.wikipedia.org/wiki/Wavelo" scope="external"><?ditaot usertext?>(pl)</xref></i>, which is owned by BikeU of the French multinational company
+                    Egis.<sup class="+ topic/ph hi-d/sup "><xref class="- topic/xref " format="html" href="https://en.wikipedia.org/wiki/Krak%C3%B3w#cite_note-158" scope="external"><?ditaot usertext?>[157]</xref></sup></p>
+    </conbody>
+</concept></map>

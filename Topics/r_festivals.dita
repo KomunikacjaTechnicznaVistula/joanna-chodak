@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_festivals">
+    <title>Festivals</title>
+    <shortdesc/>
+    <refbody>
+        <table id="table_nbk_kqp_ysb">
+            <title>Festivals that are the most popular among recipients, organized by the Krakow
+                Festival Office</title>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <colspec colname="c3" colnum="3"/>
+                <thead>
+                    <row>
+                        <entry>Festival name / date</entry>
+                        <entry> Cooperating entities </entry>
+                        <entry>Number of participants</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Wianki – The Fête de la Musique </entry>
+                        <entry>City of Krakow</entry>
+                        <entry>90,000</entry>
+                    </row>
+                    <row>
+                        <entry>Film Music Festival</entry>
+                        <entry>RMF Music, City of Krakow</entry>
+                        <entry>31,202</entry>
+                    </row>
+                    <row>
+                        <entry>Conrad Festival</entry>
+                        <entry>City of Krakow, Krakow UNESCO City of Literature, Tygodnik Powszechny
+                            Foundation</entry>
+                        <entry>21,000</entry>
+                    </row>
+                    <row>
+                        <entry>Etno Krakow Festival</entry>
+                        <entry>City of Krakow, Rozstaje Association: U Zbiegu Kultur i
+                            Tradycji</entry>
+                        <entry>6,775</entry>
+                    </row>
+                    <row>
+                        <entry>Mysteria Paschalia Festival </entry>
+                        <entry>City of Krakow, French Institute</entry>
+                        <entry>5,569</entry>
+                    </row>
+                    <row>
+                        <entry>Sacrum Profanum Festival </entry>
+                        <entry>City of Krakow, Millennium Bank, Bunkier Gallery of Contemporary
+                            Art</entry>
+                        <entry>5,126</entry>
+                    </row>
+                    <row>
+                        <entry>Opera Rara Festival </entry>
+                        <entry>Capella Cracoviensis, City of Krakow, MOCAK Museum of Contemporary
+                            Art in Krakow</entry>
+                        <entry>4,654</entry>
+                    </row>
+                    <row>
+                        <entry>Miłosz Festival</entry>
+                        <entry>City of Krakow, City of Literature Foundation</entry>
+                        <entry>2,400</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

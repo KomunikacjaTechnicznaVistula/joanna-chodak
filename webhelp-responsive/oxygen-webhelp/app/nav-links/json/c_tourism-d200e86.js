@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Visit in Krakow","shortdesc":"<p class=\"shortdesc\"\/>","href":"Topics\/t_visit_in_krakow.html","attributes":{"data-id":"t_visit_in_krakow"},"menu":{"hasChildren":false},"tocID":"t_visit_in_krakow-d200e96","topics":[]}]});
